@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplicationwithApiAndAngular</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplicationwithApiAndAngular.Controllers.DilipController1.Get">
+            <summary>
+            please provide placeid and placeName
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:WebApplicationwithApiAndAngular.Migrations.Initial">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplicationwithApiAndAngular.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplicationwithApiAndAngular.Migrations.Initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplicationwithApiAndAngular.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApplicationwithApiAndAngular.Migrations.Initial1">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplicationwithApiAndAngular.Migrations.Initial1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplicationwithApiAndAngular.Migrations.Initial1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApplicationwithApiAndAngular.Migrations.Initial1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
